@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">shopping.clamy</string>
+    <string name="add">add item to list</string>
 </resources>
